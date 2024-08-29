@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="My Request Form ">b4057731c3905210a56df73ed40131d6</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-29 15:17:50</sys_created_on>
+        <sys_id>2bc53b71c3905210a56df73ed40131b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.My Request Form </sys_name>
+        <sys_package display_value="My Dummy App" source="x_1398123_my_dum_0">7b527b3dc3505210a56df73ed40131bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Dummy App">7b527b3dc3505210a56df73ed40131bd</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_2bc53b71c3905210a56df73ed40131b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-29 15:17:50</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Dummy App">7b527b3dc3505210a56df73ed40131bd</application>
+        <file_path/>
+        <instance_id>af40a7813b8fc21c677f04e0b5e45ae1</instance_id>
+        <instance_name>dev277854</instance_name>
+        <name>sc_cat_item_catalog_2bc53b71c3905210a56df73ed40131b4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="My Request Form ">b4057731c3905210a56df73ed40131d6</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-29 15:17:50</sys_created_on><sys_id>2bc53b71c3905210a56df73ed40131b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.My Request Form </sys_name><sys_package display_value="My Dummy App" source="x_1398123_my_dum_0">7b527b3dc3505210a56df73ed40131bd</sys_package><sys_policy/><sys_scope display_value="My Dummy App">7b527b3dc3505210a56df73ed40131bd</sys_scope><sys_update_name>sc_cat_item_catalog_2bc53b71c3905210a56df73ed40131b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-29 15:17:50</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-241702161</payload_hash>
+        <record_name>Service Catalog.My Request Form </record_name>
+        <reverted_from/>
+        <source>dfe4f331c3905210a56df73ed4013172</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-29 15:17:50</sys_created_on>
+        <sys_id>63c53b71c3905210a56df73ed40131b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1919eb6e0530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-29 15:17:50</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>a3c53b71e89052104a6fe7c5f3954cb7</update_guid>
+        <update_guid_history>a3c53b71e89052104a6fe7c5f3954cb7:-241702161</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.My Request Form ">ddd57b71c3905210a56df73ed4013185</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-29 15:17:57</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>10e9f872c8a54f68844d9e0c8c829a40</sys_id>
+        <sys_metadata>2bc53b71c3905210a56df73ed40131b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.My Request Form </sys_name>
+        <sys_package display_value="My Dummy App" source="x_1398123_my_dum_0">7b527b3dc3505210a56df73ed40131bd</sys_package>
+        <sys_parent display_value="My Request Form ">b4057731c3905210a56df73ed40131d6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="My Dummy App">7b527b3dc3505210a56df73ed40131bd</sys_scope>
+        <sys_scope_delete display_value="">0a44c6741c6e4b03b95624fd4439e371</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_2bc53b71c3905210a56df73ed40131b4</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_2bc53b71c3905210a56df73ed40131b4">63c53b71c3905210a56df73ed40131b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-29 15:17:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
